@@ -32,7 +32,17 @@ theme = "hugo-hero-theme"
     name = "Contact"
     url = "/contact/"
     weight = 3
+    
+[[menu.main]]
+    name = "Posts"
+    url = "/post/"
+    weight = 4
 
+[[menu.main]]
+    name = "Pages"
+    url = "/pages/"
+    weight = 5
+    
 [permalinks]
   post = "/:year/:month/:day/:slug/"
   pages = "/:filename/"
