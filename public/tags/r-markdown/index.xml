@@ -6,7 +6,16 @@
     <description>Recent content in R Markdown on Hugo Hero Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate><atom:link href="/tags/r-markdown/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 23 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/r-markdown/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Under post 1</title>
+      <link>/2020/10/23/under-post-1/</link>
+      <pubDate>Fri, 23 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/10/23/under-post-1/</guid>
+      <description>This is test for ost directory This is test for ost directory This is test for ost directory This is test for ost directory This is test for ost directory This is test for ost directory This is test for ost directory This is test for ost directory This is test for ost directory This is test for ost directory This is test for ost directory This is test for ost directory This is test for ost directory This is test for ost directory This is test for ost directory This is test for ost directory This is test for ost directory This is test for ost directory This is test for ost directory This is test for ost directory</description>
+    </item>
+    
     <item>
       <title>Hello R Markdown</title>
       <link>/2015/07/23/hello-r-markdown/</link>
