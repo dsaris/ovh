@@ -1,6 +1,6 @@
 baseURL = "https://ovh.vercel.app/"
 languageCode = "en-us"
-title = "Hugo Hero Theme"
+title = "OVH"
 theme = "hugo-hero-theme"
 
 [params]
