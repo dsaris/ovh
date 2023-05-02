@@ -13,3 +13,6 @@ draft: FALSE
 
 #TEST POST 2
 This is the second post This is the second post This is the second post This is the second post This is the second post This is the second post This is the second post This is the second post This is the second post This is the second post This is the second post This is the second post This is the second post This is the second post This is the second post This is the second post This is the second post   
+
+#TEST IFRAME
+<iframe title="PILE REPORT" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiYThhMDgxODYtZTkxZi00ZGZiLTlhMWYtNWRhZGE1YmNhMjEyIiwidCI6IjUzYjkyMTJhLTAyMDEtNGZlMS04OTVkLTg1NWRjMjE2MDJjYyIsImMiOjEwfQ%3D%3D&pageName=ReportSection258ca865fe6e889ae0ac" frameborder="0" allowFullScreen="true"></iframe>
