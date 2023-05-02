@@ -1,4 +1,4 @@
-baseURL = "https://ovh.vercel.app/"
+baseURL = "https://whimsical-platypus-273170.netlify.app/"
 languageCode = "en-us"
 title = "OVH"
 theme = "hugo-hero-theme"
