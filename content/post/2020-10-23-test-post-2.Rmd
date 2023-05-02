@@ -13,5 +13,3 @@ draft: FALSE
 
 #TEST POST 2
 This is the second post This is the second post This is the second post This is the second post This is the second post This is the second post This is the second post This is the second post This is the second post This is the second post This is the second post This is the second post This is the second post This is the second post This is the second post This is the second post This is the second post   
-
-This is the second post This is the second post This is the second post This is the second post This is the second post This is the second post This is the second post This is the second post 
